@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "192722601916",
+    "firebase_url": "https://fir-test2-ebd15.firebaseio.com",
+    "project_id": "fir-test2-ebd15",
+    "storage_bucket": "fir-test2-ebd15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192722601916:android:c5c4cafccc99b72b204db9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_login_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192722601916-pifa8l85q19ggtm2bai4alq6u8b06a8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_yyevtRRBD4WqTQC7B3SpwFiFYBUls1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192722601916-pifa8l85q19ggtm2bai4alq6u8b06a8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192722601916:android:13b1e7572f9462c3204db9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_with_flutter_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192722601916-pifa8l85q19ggtm2bai4alq6u8b06a8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_yyevtRRBD4WqTQC7B3SpwFiFYBUls1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192722601916-pifa8l85q19ggtm2bai4alq6u8b06a8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192722601916:android:909d3c991512ad9e204db9",
+        "android_client_info": {
+          "package_name": "com.wejeo.firebasetest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192722601916-pifa8l85q19ggtm2bai4alq6u8b06a8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_yyevtRRBD4WqTQC7B3SpwFiFYBUls1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192722601916-pifa8l85q19ggtm2bai4alq6u8b06a8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
